@@ -5,6 +5,7 @@ of the speedrunner at all times and they are not allowed to lose the compass eve
 
 
 Use these links in order to start your spigot server and then you can download the .jar file and place that into the plugin folder of your server:
+
 https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_Spigot_server
 
 
