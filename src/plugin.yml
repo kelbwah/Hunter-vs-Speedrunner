@@ -1,0 +1,8 @@
+main: me.kelbwah.hunterandspeed.Main
+name: HunterVsSpeedrunner
+version: 1.2
+author: kelbwah
+
+commands:
+  runner:
+  hunter:
